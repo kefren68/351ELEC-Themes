@@ -61,7 +61,7 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
 ### Installation and Updating
 
-1. Copy es-theme-epicblanchenoir folder to /storage/.config/emulationstation/themes folder on your rg351P SD Card using Filezilla or 
+1. Copy es-theme-epicblanchenoir folder to /storage/.config/emulationstation/themes folder on your rg351P SD Card  
 
 2. Restart Emulationstation
 
