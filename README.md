@@ -31,6 +31,7 @@ By downloading and installing this theme it will be assumed that you own and pos
 ### Thanks and Credits
 
 Many thanks to Chicuelo and Nick L for their great job.
+Many thanks, really, to Fewtarius for his 351ELEC OS for RG351P.
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
@@ -156,9 +157,7 @@ x-68000
 Auto Collections
 Custom Collections (for when a user creates their own collection within ES)
 
-Acknowledgments
-
-    351ELEC by fewtarius - https://github.com/fewtarius/351ELEC
-    Some logo graphics are modified from the Art Book 3-2 Theme by Anthony Caccese
-
+**Acknowledgements** \
+351ELEC by Fewtarius - https://github.com/fewtarius/351ELEC
+Some logo graphics are modified from Art Book 3:2 Theme by Anthony Caccese
 
