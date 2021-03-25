@@ -156,6 +156,9 @@ x-68000
 Auto Collections
 Custom Collections (for when a user creates their own collection within ES)
 
+Acknowledgments
 
+    351ELEC by fewtarius - https://github.com/fewtarius/351ELEC
+    Some logo graphics are modified from the Art Book 3-2 Theme by Anthony Caccese
 
 
