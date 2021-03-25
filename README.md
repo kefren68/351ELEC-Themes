@@ -71,12 +71,6 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
 5. Change theme to ES-THEME-EPICBLANCHENOIR
 
-### Update
-
-In order to update your installed theme (if you installed with above instructions), open a terminal and run:
-
-    cd ~/.emulationstation/themes/es-epicnoir
-    git pull
 
 ### Theme Notes
 
@@ -85,8 +79,6 @@ This theme supports video. You can also use a scraped image in conjunction with 
 Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
 
 ---
-
-
 
 
 ## Fully Supported Systems
