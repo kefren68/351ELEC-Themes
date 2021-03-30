@@ -161,3 +161,7 @@ Custom Collections (for when a user creates their own collection within ES)
 351ELEC by Fewtarius - https://github.com/fewtarius/351ELEC
 Some logo graphics are modified from Art Book 3:2 Theme by Anthony Caccese
 
+**Preview:** \
+![351ELEC-EpicBlancheNoir](https://user-images.githubusercontent.com/75138922/113059439-bceec100-91af-11eb-8786-c253267e35c2.jpg)
+
+
