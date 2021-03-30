@@ -1,0 +1,24 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>CAPCOM SYSTEM I</text>
+  </text>
+</view>    
+
+<view name="system">
+  <image name="logo" extra="true">
+ <pos>0.11 0.14</pos>
+<maxSize>0.6 0.6</maxSize>
+
+      </image>
+  <text name="shortdescription" extra="true">
+   <text>1988  ·  Arcade Board</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The CPS is an arcade system board developed by Capcom that ran game software stored on removable ROM cartridges.</text>
+  </text>
+ </view>
+</theme>

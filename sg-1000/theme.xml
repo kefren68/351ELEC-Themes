@@ -1,0 +1,24 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Sega SG-1000</text>
+  </text>
+</view>    
+
+<view name="system">
+  <image name="logo" extra="true">
+ <pos>0.13 0.15</pos>
+
+
+      </image>
+  <text name="shortdescription" extra="true">
+   <text>1983  ·  8-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Sega's first entry into the home video game hardware business provided the basis for the more successful Master System.</text>
+  </text>
+ </view>
+</theme>

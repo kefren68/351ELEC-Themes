@@ -1,0 +1,21 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Adventure Game Studio</text>
+  </text>
+</view>
+<view name="system">
+    
+
+      </image>
+  <text name="shortdescription" extra="true">
+   <text>Virtual Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A virtual console able to re-create Zelda-like games</text>
+  </text>
+ </view>
+</theme>

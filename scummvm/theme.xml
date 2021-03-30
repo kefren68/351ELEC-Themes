@@ -1,0 +1,24 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Scumm VM</text>
+  </text>
+</view>    
+
+<view name="system">
+<image name="logo" extra="true">
+ <pos>0.11 0.14</pos>
+<maxSize>0.6 0.6</maxSize>
+
+      </image>
+  <text name="shortdescription" extra="true">
+   <text>Cross Platform Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</text>
+  </text>
+ </view>
+</theme>

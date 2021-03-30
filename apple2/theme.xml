@@ -1,0 +1,20 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Apple ][</text>
+  </text>
+</view>    
+
+<view name="system">
+  
+  <text name="shortdescription" extra="true">
+   <text>1977  ·  8-bit Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>One of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak.</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,24 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>MSX 2</text>
+  </text>
+</view>    
+
+<view name="system">
+<image name="logo" extra="true">
+  <pos>0.1 0.15</pos>
+<maxSize>0.48 0.48</maxSize>
+
+      </image>
+  <text name="shortdescription" extra="true">
+   <text>1984  ·  16-bit Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>MSX2 is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers</text>
+  </text>
+ </view>
+</theme>
