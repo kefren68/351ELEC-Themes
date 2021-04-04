@@ -183,7 +183,21 @@ Strategy
 351ELEC by Fewtarius - https://github.com/fewtarius/351ELEC \
 Some logo graphics are modified from Art Book 3:2 Theme by Anthony Caccese
 
-**Preview:** \
+**Screenshots:** \
+
+![adventure](https://user-images.githubusercontent.com/75138922/113506258-ffaff080-9543-11eb-9dec-1fd47be16f73.jpg)
+![allgames](https://user-images.githubusercontent.com/75138922/113506262-02124a80-9544-11eb-97d4-5791357f92a8.jpg)
+![amiga](https://user-images.githubusercontent.com/75138922/113506264-03437780-9544-11eb-9f2e-c567c5266cba.jpg)
+![atomiswave](https://user-images.githubusercontent.com/75138922/113506267-050d3b00-9544-11eb-9091-0ae53eba2d80.jpg)
+![daphne](https://user-images.githubusercontent.com/75138922/113506269-08082b80-9544-11eb-9417-1312282e2aa7.jpg)
+![dreamcast](https://user-images.githubusercontent.com/75138922/113506270-09d1ef00-9544-11eb-9fad-731f6fc11e1c.jpg)
+![famicom](https://user-images.githubusercontent.com/75138922/113506274-0c344900-9544-11eb-8833-473e4e510ac7.jpg)
+![mame](https://user-images.githubusercontent.com/75138922/113506278-0e96a300-9544-11eb-8aa3-e7e5c94e545c.jpg)
+![megadrive](https://user-images.githubusercontent.com/75138922/113506279-0fc7d000-9544-11eb-847a-63f54f34e0d4.jpg)
+![nes](https://user-images.githubusercontent.com/75138922/113506281-12c2c080-9544-11eb-81a1-5b964792d4dc.jpg)
+![psx](https://user-images.githubusercontent.com/75138922/113506289-2110dc80-9544-11eb-98ec-846e94c840a5.jpg)
+![gamelist](https://user-images.githubusercontent.com/75138922/113506290-22daa000-9544-11eb-8297-7cf590efa3af.jpg)
+
 
 
 
