@@ -130,16 +130,16 @@ CPS 3 \
 Daphne \
 Doom \
 EasyRPG \
-Famicom & Super Famicom \ 
+Famicom & Super Famicom \
 Final Burn Alpha \
 Final Burn Neo \
 Game & Watch \
 Intellivision \
-MAME \ 
+MAME \
 MS-DOS \
 MSX & MSX 2 \
 Neo Geo \
-Neo Geo Pocket & Pocket Color \ 
+Neo Geo Pocket & Pocket Color \
 Nintendo 64 \
 Nintendo DS \
 Nintendo Entertainment System \
@@ -190,7 +190,7 @@ Vectrex \
 Videopac \
 Wonderswan \
 Wonderswan Color \
-x-68000 
+x-68000
 
 ---
 
