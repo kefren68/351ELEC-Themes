@@ -123,7 +123,7 @@ Commodore 64 \
 Commodore 128 \
 Commodore Vic20 \
 Commodore Amiga \
-ColecoVision \ 
+ColecoVision \
 CPS 1 \
 CPS 2 \
 CPS 3 \
