@@ -1,6 +1,6 @@
 ## Screenshots
 
-##System View
+*System View*
 
 ![adventure](https://user-images.githubusercontent.com/75138922/113506258-ffaff080-9543-11eb-9dec-1fd47be16f73.jpg)
 ![amiga](https://user-images.githubusercontent.com/75138922/113506264-03437780-9544-11eb-9f2e-c567c5266cba.jpg)
@@ -11,12 +11,12 @@
 ![mame](https://user-images.githubusercontent.com/75138922/113506278-0e96a300-9544-11eb-8aa3-e7e5c94e545c.jpg)
 ![megadrive](https://user-images.githubusercontent.com/75138922/113506279-0fc7d000-9544-11eb-847a-63f54f34e0d4.jpg)
 ![nes](https://user-images.githubusercontent.com/75138922/113506281-12c2c080-9544-11eb-81a1-5b964792d4dc.jpg)
-![psx](https://user-images.githubusercontent.com/75138922/113506289-2110dc80-9544-11eb-98ec-846e94c840a5.jpg)\
+![psx](https://user-images.githubusercontent.com/75138922/113506289-2110dc80-9544-11eb-98ec-846e94c840a5.jpg)
 
-##Video View
-![video](https://user-images.githubusercontent.com/75138922/113554884-47914f00-95fa-11eb-9630-a9851a6cdaf3.jpg)\
+*Video View*
+![video](https://user-images.githubusercontent.com/75138922/113554884-47914f00-95fa-11eb-9630-a9851a6cdaf3.jpg)
 
-##Detailed View
+*Detailed View*
 ![gamelist](https://user-images.githubusercontent.com/75138922/113506290-22daa000-9544-11eb-8297-7cf590efa3af.jpg)
 
 
