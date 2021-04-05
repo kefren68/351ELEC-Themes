@@ -14,9 +14,11 @@
 ![psx](https://user-images.githubusercontent.com/75138922/113506289-2110dc80-9544-11eb-98ec-846e94c840a5.jpg)
 
 *Video View*
+
 ![video](https://user-images.githubusercontent.com/75138922/113554884-47914f00-95fa-11eb-9630-a9851a6cdaf3.jpg)
 
 *Detailed View*
+
 ![gamelist](https://user-images.githubusercontent.com/75138922/113506290-22daa000-9544-11eb-8297-7cf590efa3af.jpg)
 
 
