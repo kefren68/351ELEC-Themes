@@ -109,6 +109,7 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 ###### (backgrounds, controller images, descriptions) :
 
 3DO \
+AGS \
 Amstrad CPC \
 Atari 800 \
 Atari 2600 \
@@ -116,16 +117,22 @@ Atari 5200 \
 Atari 7800 \
 Atari Lynx \
 Atari ST \
-Apple 2 \
+Atomiswave \
 Commodore 16 \
 Commodore 64 \
 Commodore 128 \
 Commodore Vic20 \
 Commodore Amiga \
-Coco \
 ColecoVision \ 
+CPS 1 \
+CPS 2 \
+CPS 3 \
 Daphne \
+Doom \
+EasyRPG \
 Famicom & Super Famicom \ 
+Final Burn Alpha \
+Final Burn Neo \
 Game & Watch \
 Intellivision \
 MAME \ 
@@ -136,50 +143,54 @@ Neo Geo Pocket & Pocket Color \
 Nintendo 64 \
 Nintendo DS \
 Nintendo Entertainment System \
+Nintendo Entertainment System Hacks\
 Nintendo Gameboy \
+Nintendo Gameboy Hacks\
 Nintendo Gameboy  Advance\
+Nintendo Gameboy  Advance Hacks\
 Nintendo Gameboy Color \
-Nintendo GameCube \
+Nintendo Gameboy Color Hacks\
 Nintendo SNES \
+Nintendo SNES Hacks\
 Nintendo SNES - MSU1 \
 Nintendo VirtualBoy \
+Odyssey2 \
+Openbor \
+PC \
 PC-Engine \
+PC-FX \
+Pico-8 \
+Pokemon mini \
+Ports \
+Psp minis \
 ScummVM \
 Sega Gamegear \
+Sega Gamegear Hacks\
 Sega Genesis \
+Sega Genesis Hacks\
 Sega Mastersystem \
 Sega Mega 32x & CD \
 Sega Megadrive \
+Sega Megadrive Japan\
 Sega Saturn \
+Sega SC-3000 \
 Sega SG-1000 \
 Sega Dreamcast \
 Sinclair ZX Spectrum \
 Sinclair ZX81 \
+Solarus \
 Sony Playstation \
 Sony PSP \
 SuperGrafx \
+Tic-80 \
+Tools \
 TurboGrafx-16 \
+Uzebox \
 Vectrex \
+Videopac \
 Wonderswan \
 Wonderswan Color \
-Pico-8 \
-Tic-80 \
-AGS \
-Atomiswave \
-CPS 1 \
-CPS 2 \
-CPS 3 \
-Videopac \
-Odyssey \
-EasyRPG \
-Ports \
-Tools \
-Uzebox \
-x-68000 \
-Openbor \
-Pokemon mini \
-Psp minis \
-Solarus 
+x-68000 
 
 ---
 
