@@ -1,3 +1,5 @@
+
+
 ## Screenshots
 
 *System View*
@@ -15,11 +17,11 @@
 
 *Video View*
 
-![video](https://user-images.githubusercontent.com/75138922/113554884-47914f00-95fa-11eb-9630-a9851a6cdaf3.jpg)
+![video](https://user-images.githubusercontent.com/75138922/113750636-5ddb0000-970b-11eb-94b2-0b9fc4eacfd8.jpg)
 
 *Detailed View*
 
-![gamelist](https://user-images.githubusercontent.com/75138922/113506290-22daa000-9544-11eb-8297-7cf590efa3af.jpg)
+![gamelist](https://user-images.githubusercontent.com/75138922/113750633-5d426980-970b-11eb-84ae-ab7f09926bdf.jpg)
 
 
 
@@ -136,6 +138,7 @@ Final Burn Neo \
 Game & Watch \
 Intellivision \
 MAME \
+Media Player \
 MS-DOS \
 MSX & MSX 2 \
 Neo Geo \
