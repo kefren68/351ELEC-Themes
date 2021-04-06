@@ -185,7 +185,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <textlist name="gamelist">
         <selectorColor>ffffff</selectorColor>
         <selectedColor>000000</selectedColor>
-        <selectorHeight>0.05</selectorHeight>
+        <selectorHeight>0.075</selectorHeight>
         <primaryColor>ffffff</primaryColor>
         <secondaryColor>cccccc</secondaryColor>
         <backgroundColor>000000</backgroundColor>
@@ -193,8 +193,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <pos>0 0.0833</pos>
-	    <size>0.323 0.8513</size>
-        <fontSize>0.03</fontSize>
+	    <size>0.383 0.8513</size>
+        <fontSize>0.04</fontSize>
         <lineSpacing>1.683</lineSpacing>
         <horizontalMargin>0.02864</horizontalMargin>
     </textlist>
@@ -204,7 +204,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <text>Select Game</text>
         <alignment>left</alignment>
         <color>aa0000</color>
-        <fontSize>0.034</fontSize>
+        <fontSize>0.038</fontSize>
         <origin>0 0</origin>
         <pos>0.029 0</pos>
         <size>0.20 0.08</size>
@@ -212,12 +212,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     
     <text name="nameLabel" extra="true">
         <fontPath>./_art/Acre.otf</fontPath>
-        <alignment>center</alignment>
+        <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>000000</color>
         <fontSize>0.036</fontSize>
         <origin>0 0</origin>
-        <pos>0.48 0</pos>
+        <pos>0.44 0</pos>
         <size>0.40 0.075</size>
     </text>
 
@@ -434,9 +434,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 
     
-<text name="logoText">
-         <visible>false</visible>
-      </text>
+    <text name="logoText">
+      <visible>false</visible>
+     </text>
 
    </view>
 
@@ -446,12 +446,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="clock">
       <color>aa0000FF</color>
       <fontSize>0.035</fontSize>
-      <pos>0.90 0.94</pos>
+      <pos>0.75 0.005</pos>
       <size>0.09 0.058</size>
       <fontSize verticalScreen="true">0.028</fontSize>
       <pos verticalScreen="true">0.90 0.012</pos>
       <size verticalScreen="true">0.09 0.0275</size>
-      <color verticalScreen="true">FFFFFFA0</color>
+      <color verticalScreen="true">FF0000ff</color>
 
       <alignment>right</alignment>
       <verticalAlignment>center</verticalAlignment>
@@ -484,14 +484,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <batteryIndicator name="batteryIndicator" tinyScreen="true">
       <pos>0.915 0.0</pos>
       <size>0.07 0.07</size>
+<color>aa0000</color>
     </batteryIndicator>
-    <networkIcon>./_art/icons/network.svg</networkIcon>
+    <networkIcon>
+<path>./_art/icons/network.svg</path>
+</networkIcon>
 </view>
-
-
-
-
-
-
-
 </theme>
