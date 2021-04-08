@@ -57,8 +57,11 @@ By downloading and installing this theme it will be assumed that you own and pos
 
 ### Thanks and Credits
 
-Many thanks to Chicuelo and Nick L for their great job.
-Many thanks, really, to Fewtarius for his 351ELEC OS for RG351P.
+I would like to thanks:
+Chicuelo and Nick L for their great job
+Anthony Caccese and Szalik for their support
+Many thanks, really, to Fewtarius and all contributors who made 351ELEC OS for RG351P.
+
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
@@ -125,12 +128,12 @@ Commodore 64 \
 Commodore 128 \
 Commodore Vic20 \
 Commodore Amiga \
+Commodore Amiga CD32\
 ColecoVision \
 CPS 1 \
 CPS 2 \
 CPS 3 \
 Daphne \
-Doom \
 EasyRPG \
 Famicom & Super Famicom \
 Final Burn Alpha \
@@ -140,17 +143,19 @@ Intellivision \
 MAME \
 Media Player \
 MS-DOS \
-MSX & MSX 2 \
+MSX \
+MSX 2 \
 Neo Geo \
-Neo Geo Pocket & Pocket Color \
+Neo Geo Pocket \
+Neo Geo Pocket Color \
 Nintendo 64 \
 Nintendo DS \
 Nintendo Entertainment System \
 Nintendo Entertainment System Hacks\
 Nintendo Gameboy \
 Nintendo Gameboy Hacks\
-Nintendo Gameboy  Advance\
-Nintendo Gameboy  Advance Hacks\
+Nintendo Gameboy Advance\
+Nintendo Gameboy Advance Hacks\
 Nintendo Gameboy Color \
 Nintendo Gameboy Color Hacks\
 Nintendo SNES \
@@ -184,6 +189,7 @@ Sinclair ZX81 \
 Solarus \
 Sony Playstation \
 Sony PSP \
+Sufami \
 SuperGrafx \
 Tic-80 \
 Tools \
@@ -205,8 +211,10 @@ Arcade \
 Auto-allgames \
 Auto-favorites \
 Auto-lastplayed \
+Auto-retroachievements \
 Beat'em up \
 Custom \
+Doom \
 Platformers \
 Puzzle \
 Racing \
