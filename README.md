@@ -211,6 +211,7 @@ Arcade \
 Auto-allgames \
 Auto-favorites \
 Auto-lastplayed \
+Auto-neverplayed \
 Auto-retroachievements \
 Beat'em up \
 Custom \
