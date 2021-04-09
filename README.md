@@ -213,7 +213,7 @@ Auto-favorites \
 Auto-lastplayed \
 Auto-neverplayed \
 Auto-2 players \
-Auto-4 players
+Auto-4 players \
 Auto-retroachievements \
 Beat'em up \
 Custom \
