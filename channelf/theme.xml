@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Fairchild Channel F</text>
+  </text>
+</view>    
+
+<view name="system">  
+  <text name="shortdescription" extra="true">
+   <text>1976  ·  8-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Fairchild Channel F was the first video console to use ROM cartridges and the first to use a microprocessor.</text>
+  </text>
+ </view>
+</theme>
