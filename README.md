@@ -135,6 +135,7 @@ CPS 2 \
 CPS 3 \
 Daphne \
 EasyRPG \
+Fairchild Channel F \
 Famicom & Super Famicom \
 Final Burn Alpha \
 Final Burn Neo \
