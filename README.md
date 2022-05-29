@@ -26,10 +26,10 @@
 
 
 
-## EpicBlancheNoir 351ELEC Theme
+## EpicBlancheNoir AmberELEC Theme
 
 This is a theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
-This theme has been designed for 351ELEC, particulary for the black and white version of RG351P.
+This theme has been designed for AmberELEC, particulary for the black and white version of RG351P.
 
 ---
 
@@ -60,7 +60,7 @@ By downloading and installing this theme it will be assumed that you own and pos
 I would like to thanks:
 Chicuelo and Nick L for their great job
 Anthony Caccese and Szalik for their support
-Many thanks, really, to Fewtarius and all contributors who made 351ELEC OS for RG351P.
+Many thanks, really, to all contributors who made AMBERELEC OS for RG351P.
 
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
@@ -238,6 +238,6 @@ Wolfenstein 3D
 
 ### Acknowledgements
 
-351ELEC by Fewtarius - https://github.com/fewtarius/351ELEC \
+AmberELEC Team - https://github.com/AmberELEC/AmberELEC
 Some logo graphics are modified from Art Book 3:2 Theme by Anthony Caccese
 
